@@ -8,7 +8,7 @@ include 'dal/dbFormation.php';
 
 $formationEmploye = RechercheFormationUtilisateur(ObtenirIdEnCours());
 
-
+// test git
 ?>
 <div id="principal">
 	<h2>Vos formations</h2>
